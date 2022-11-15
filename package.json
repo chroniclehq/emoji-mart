@@ -6,7 +6,7 @@
   "module": "dist-es/index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:missive/emoji-mart.git"
+    "url": "git@github.com:chroniclehq/emoji-mart.git"
   },
   "keywords": [
     "react",
