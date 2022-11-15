@@ -1,5 +1,5 @@
 {
-  "name": "@chroniclehq/emoji-mart",
+  "name": "chroniclehq-emoji-mart",
   "version": "3.0.1",
   "description": "Customizable Slack-like emoji picker for React",
   "main": "dist/index.js",
